@@ -1,2 +1,2 @@
-# open-hack-pop-api
-Learn how to use POP Api to communicate with Substrate-based blockchain from ink! smart contract
+# Open Hack POP API
+Learn how to use POP API to communicate with Substrate-based blockchain from ink! smart contract
